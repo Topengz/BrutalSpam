@@ -8,7 +8,7 @@
 ```
 apt update && apt upgrade -y
 apt install python
-apt install requests
+pip install requests
 pip install --upgrade pip
 pip install faker
 git clone https://github.com/Topengz/BrutalSpam
